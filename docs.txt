@@ -1,4 +1,12 @@
 About:
+lists.py lays the groundwork for algorithms to sort lists. I also kept track of runtime and memory usage.
+
+The first task was to square each number in a list and return the list once all numbers were squared. Task two involved reordering a sub-list 
+by specifying a start and end point. The third task was merging two already sorted lists.
+
+dictionaries.py focuses on manipulating data within dictionaries. Task one was to merge two dictionaries while retaining their keys and values. 
+The second task was to return a dictionary containing keys common to both dictionaries, along with their respective values. The third and final 
+task was to find unique words within a dictionary’s list, keep track of them, and return a count of all unique words.
 
 Questions:
   Advanced Operations on Python Lists
@@ -28,7 +36,10 @@ Questions:
     Utilize Python's built-in functions and methods for efficiency where appropriate.
     Use resources like timeit module for measuring execution time and sys.getsizeof() for estimating memory usage.
     Dictionary Manipulation and Optimization
-    Objective: Understand Python dictionaries by exploring advanced manipulation techniques and optimization strategies.
+
+
+  Objective: 
+    Understand Python dictionaries by exploring advanced manipulation techniques and optimization strategies.
 
   Problem Statement: Explore advanced manipulation techniques and optimization strategies for Python dictionaries. Implement various dictionary 
     operations and optimize them for improved performance.
